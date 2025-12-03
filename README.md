@@ -1,18 +1,20 @@
 # MediaPipe Multi-Modal Detection System
 
-<div align="center">
+## A Professional, Production-Ready System for Real-Time Computer Vision Analysis
 
-**A Professional, Production-Ready System for Real-Time Computer Vision Analysis**
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![MediaPipe](https://img.shields.io/badge/mediapipe-0.10%2B-green)
+![OpenCV](https://img.shields.io/badge/opencv-4.8%2B-red)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
+<!-- Option 1: Use local file (must be committed) -->
+![Header](header.png)
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-green.svg)](https://developers.google.com/mediapipe)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-red.svg)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<!-- Option 2: Use external URL (no commit needed) -->
+<!-- ![Header](https://your-image-hosting-service.com/header.png) -->
 
-![alt text](header1.jpg)
-
-</div>
+<!-- Option 3: Create an assets folder (recommended) -->
+<!-- ![Header](assets/images/header.png) -->
 
 ---
 
